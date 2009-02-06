@@ -23,11 +23,12 @@ requires:
   DateTime::TimeZone: 0
   DateTimeX::Easy: 0
   Filter::Util::Call: 0
-  Mouse: 0.14
+  Mouse: 0.15
+  MouseX::Types: 0.01
   Scalar::Util: 0
   Time::Duration::Parse: 0
   namespace::clean: 0
   perl: 5.8.1
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
